@@ -1,5 +1,5 @@
 ## Boilerplate project
 
-Technologies
+Contents
 - Global styles
 - Routes
