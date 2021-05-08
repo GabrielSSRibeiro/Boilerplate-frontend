@@ -1,9 +1,11 @@
 import React from "react";
-import { useHistory } from "react-router-dom";
+// import { useMyContext } from "../../contexts/myContext";
+// import { useHistory } from "react-router-dom";
 //  import api from "../../services/api";
 
 function Home() {
-  const history = useHistory();
+  // const {} = useMyContext();
+  // const history = useHistory();
 
   //   useEffect(() => {
   //   api.get("items").then((response) => {
